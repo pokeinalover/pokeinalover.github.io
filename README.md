@@ -5,9 +5,9 @@
 
 Tambien dibujo asi que siganme en redes (─‿‿─)
 
-<img href=https://www.instagram.com/pokeinalover src="https://www.svgrepo.com/show/299481/instagram.svg" intrinsicsize="512 x 512" width="60" height="60" srcset="https://www.svgrepo.com/show/299481/instagram.svg 4x" alt="pokeinalover" title="pokeinalover" /> Instagram: @pokeinalover
+<img href=https://www.instagram.com/pokeinalover src="https://www.svgrepo.com/show/299481/instagram.svg" intrinsicsize="512 x 512" width="60" height="60" srcset="https://www.instagram.com/pokeinalover 4x" alt="pokeinalover" title="pokeinalover" /> Instagram: @pokeinalover
 
 
-<img href=https://twitter.com/pokeinalover src="https://www.svgrepo.com/show/126780/twitter.svg" intrinsicsize="512 x 512" width="60" height="60" srcset="https://www.svgrepo.com/show/126780/twitter.svg 4x" alt="pokeinalover" title="pokeinalover" /> Twitter: @pokeinalover
+<img href=https://twitter.com/pokeinalover src="https://www.svgrepo.com/show/126780/twitter.svg" intrinsicsize="512 x 512" width="60" height="60" srcset="https://twitter.com/pokeinalover 4x" alt="pokeinalover" title="pokeinalover" /> Twitter: @pokeinalover
 
-<img href=https://artfol.me/pokeinalover src="https://www.svgrepo.com/show/213308/color-palette-paint.svg" intrinsicsize="512 x 512" width="60" height="60" srcset="https://www.svgrepo.com/show/213308/color-palette-paint.svg 4x" alt="Color Palette Paint SVG Vector" title="Color Palette Paint SVG Vector"> Artfol: @pokeinalover
+<img href=https://artfol.me/pokeinalover src="https://www.svgrepo.com/show/213308/color-palette-paint.svg" intrinsicsize="512 x 512" width="60" height="60" srcset="https://artfol.me/pokeinalover 4x" alt="Color Palette Paint SVG Vector" title="Color Palette Paint SVG Vector"> Artfol: @pokeinalover
