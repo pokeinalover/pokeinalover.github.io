@@ -1,5 +1,5 @@
 # Página web de una patata
-<div align="center"<a href="pokeinalover.github.io">
+<div align="center" <a href="pokeinalover.github.io">
          <img alt="Twitter" src="mdassets/banner_readme.png"
           width="300" height="200">
       </a>
