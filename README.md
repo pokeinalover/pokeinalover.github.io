@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://pokeinalover.github.io">
-         <img alt="Twitter" src="mdassets/banner_readme.png"
+         <img alt="Webpage" src="mdassets/banner_readme.png"
          width=300" height="200">
       </a> <br>
 
